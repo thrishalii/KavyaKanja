@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113100166448",
+    "project_id": "kavya-kanaja-6c72c",
+    "storage_bucket": "kavya-kanaja-6c72c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113100166448:android:22545a3042c02ea22e64f5",
+        "android_client_info": {
+          "package_name": "com.example.kavyakanaja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASGgUa2y1rhZ_JQl7aH3c9OZiq98rARQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
